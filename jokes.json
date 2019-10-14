@@ -4,6 +4,13 @@
     "type": "programming",
     "setup": "Two bytes meet. The first byte asks, \"Are you ill?\"",
     "punchline": "The second byte replies, \"No, just feeling a bit off.\""
-  }
-    ]
+  },
+        
+   {
+    "text": "q. How do you comfort a JavaScript bug? a. You console it.",
+    "question": "How do you comfort a JavaScript bug?",
+    "answer": "You console it.",
+    
+    }
+                 ]
 }
