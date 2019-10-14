@@ -4,6 +4,13 @@
     "type": "programming",
     "setup": "Two bytes meet. The first byte asks, \"Are you ill?\"",
     "punchline": "The second byte replies, \"No, just feeling a bit off.\""
-  }
-    ]
+  },
+    
+    
+  {
+    "text": "q. Why did the child component have such great self-esteem? a. Because its parent kept giving it `props`!",
+    "question": "Why did the child component have such great self-esteem?",
+    "answer": "Because its parent kept giving it `props`!",
+}
+        ]
 }
