@@ -15,6 +15,21 @@
     "text": "q. Why did the child component have such great self-esteem? a. Because its parent kept giving it `props`!",
     "question": "Why did the child component have such great self-esteem?",
     "answer": "Because its parent kept giving it `props`!",
+  },
+  {
+    "text": "q. What is a programmer? a. A machine that turns coffee into code.",
+    "question": "What is a programmer?",
+    "answer": "A machine that turns coffee into code.",
+  },
+  {
+    "text": "q. What is an algorithm? a. Word used by programmers when.. they do not want to explain what they did.",
+    "question": "What is an algorithm?",
+    "answer": "Word used by programmers when.. they do not want to explain what they did.",
+  },
+  {
+    "text": "q. What is hardware? a. The part of a computer that you can kick.",
+    "question": "What is hardware?",
+    "answer": "The part of a computer that you can kick.",
   }
  ]
 }
